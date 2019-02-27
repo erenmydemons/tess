@@ -1,0 +1,7 @@
+xong roi day
+quy trinh:
+1. git init (khoi tao du an)
+2. tao source cac thu muon up len thi:
+3. git add * (tuc la dong goi code new
+4. git commit (dat ten cai goi' do'
+5. git push -u origin master (la upload code len git)
